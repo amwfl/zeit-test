@@ -1,0 +1,23 @@
+{
+  "name": "zeit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "now-build": "cpy index.html dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://amwfl@github.com/amwfl/zeit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amwfl/zeit-test/issues"
+  },
+  "homepage": "https://github.com/amwfl/zeit-test#readme",
+  "devDependencies": {
+    "cpy-cli": "^2.0.0"
+  }
+}
